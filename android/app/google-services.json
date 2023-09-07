@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "913703302961",
+    "project_id": "laspigadoro-8fbb8",
+    "storage_bucket": "laspigadoro-8fbb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913703302961:android:3c73cfec7e41c6cef16210",
+        "android_client_info": {
+          "package_name": "com.soclose.laspigadoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913703302961-6fje4a3eo2poucdbp4n3qs150i7vb6c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "0ab3d58a006eff8f2bcb1ab5e2e6150515b5b52b"
+          }
+        },
+        {
+          "client_id": "913703302961-98tmasktin81jne3jlob17n10ldt4hfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "6557f9a27b6bd647e207054320ad5da2add4e3cf"
+          }
+        },
+        {
+          "client_id": "913703302961-ak4pv5aphi10r43ftdd4faqg3f8k2294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "f63d50f9e0019828e44e4d21b612a1272c6d586f"
+          }
+        },
+        {
+          "client_id": "913703302961-b209tbbh2dohephqimn2o1dovl6o2ck1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "7242aded93d551e9d0be042ed584012bf4cf082d"
+          }
+        },
+        {
+          "client_id": "913703302961-fiqjlbic23297gh5009uhh2v11t11de8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "dc5cb8e2f0c7276c6fd8578c572b03491f907b6f"
+          }
+        },
+        {
+          "client_id": "913703302961-mnhl98bpleialk6erbkihd3orsk3afrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soclose.laspigadoro",
+            "certificate_hash": "5d7ab8c2642c593c5e0226cb0bddabbbb8fee2b4"
+          }
+        },
+        {
+          "client_id": "913703302961-tt6g91tr78ba4fffanehl0qd5cjks9fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXJXqVB80Tz5y86fkAoC4RIH9MtY6r4GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913703302961-6sqvimt3k6nate6a1lhrcf3ufrfud191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
